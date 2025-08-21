@@ -117,7 +117,7 @@ const Index = () => {
       <div className="text-primary text-lg">░░░ MOTIVATIONS ░░░</div>
       <div className="space-y-3">
         <div>
-          <div className="text-secondary">► PASSION EDEN</div>
+          <div className="text-secondary">► PASSION solve</div>
           <div className="text-muted-foreground pl-4">
             - Connexion quotidienne 18h pile jusqu'a 2h du matin<br/>
 
@@ -168,7 +168,7 @@ const Index = () => {
           <div className="text-secondary">► DISCORD</div>
           <div className="text-muted-foreground pl-4 mb-2">kais570</div>
           <Button asChild size="sm" className="ml-4 bg-accent text-accent-foreground hover:bg-accent/80">
-            <a href="https://discord.com/channels/1396970730603806720/1403446578781356103" target="_blank" rel="noopener noreferrer">
+            <a href="https://discord.com/channels/1196874607022571590/1408217263840165948" target="_blank" rel="noopener noreferrer">
               ACCEDER AU TICKET
             </a>
           </Button>
@@ -217,7 +217,7 @@ const Index = () => {
           <div className="text-center mt-4">
             <div className="text-muted-foreground font-mono text-xs opacity-50">
               ░░░ CANDIDATURE-TV MODEL 2024 ░░░<br/>
-              NARUTO RP "LA EDEN"
+              NARUTO RP "LA solve"
             </div>
           </div>
         </div>
@@ -282,7 +282,7 @@ const Index = () => {
           <div className="text-center mt-6">
             <div className="text-muted-foreground font-mono text-sm">
               ░░░ CANDIDATURE-TV MODEL 2024 ░░░<br/>
-              NARUTO RP "LA EDEN"
+              NARUTO RP "LA solve"
             </div>
           </div>
           
