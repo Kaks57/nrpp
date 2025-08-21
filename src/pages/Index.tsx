@@ -142,7 +142,7 @@ const Index = () => {
         <div>
           <div className="text-secondary">► DOMAINES PREFERES</div>
           <div className="text-muted-foreground pl-4">
-            - Nature de Chakra (si possible Suiton)<br/>
+            - Clan ( Connaisances des lore des clans de konoha)<br/>
             - Medecin<br/>
             - Kenjutsu / Arme<br/>
             - Taijutsu
