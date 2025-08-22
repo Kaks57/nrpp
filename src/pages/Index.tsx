@@ -145,7 +145,7 @@ const Index = () => {
             - Clan ( Connaisances des lore des clans de konoha)<br/>
             - Medecin<br/>
             - Kenjutsu / Arme<br/>
-            - Taijutsu
+            - JUINJUTSU
           </div>
         </div>
         <div>
